@@ -1,0 +1,152 @@
+export const profile = {
+  name: "Shadab Akhter",
+  initials: "SA",
+  role: "Web Developer & QA Engineer",
+  tagline:
+    "B.Tech Computer Science graduate who builds clean web applications with React and ensures software quality through manual, automation and API testing.",
+  location: "Patna, Bihar, India",
+  email: "shadabakhter1590@gmail.com",
+  phone: "+91 9570042110",
+  linkedin: "https://www.linkedin.com/in/shadab-akhter957/",
+  github: "https://github.com/shadddabb",
+  resumeUrl: "/Shadab_Cv.pdf",
+  about: [
+    "I am a Computer Science and Engineering graduate from Lovely Professional University (2022 – 2026) with hands-on experience across both sides of software delivery: building user-facing applications and rigorously testing them.",
+    "On the development side I work with React.js, JavaScript, Python and Java. On the quality side I design test cases, run automation suites with Selenium WebDriver and TestNG, and validate APIs with Postman — supported by 60+ hours of DSA training in C++.",
+    "I enjoy turning requirements into reliable, well-tested products and I am actively looking for software engineering or QA opportunities where I can contribute from day one.",
+  ],
+  skills: [
+    {
+      category: "Languages & Web",
+      items: ["Java", "Python", "JavaScript", "HTML5", "CSS3", "SQL"],
+    },
+    {
+      category: "Frameworks & Tools",
+      items: [
+        "React.js",
+        "Node.js",
+        "Selenium WebDriver",
+        "TestNG",
+        "Appium",
+        "Apache JMeter",
+        "Postman",
+        "Git & GitHub",
+        "TestRail",
+        "Eclipse",
+      ],
+    },
+    {
+      category: "Testing",
+      items: [
+        "Manual Testing",
+        "Automation Testing",
+        "API Testing",
+        "Smoke Testing",
+        "Regression Testing",
+        "Test Case Design",
+      ],
+    },
+    {
+      category: "CS Fundamentals",
+      items: [
+        "Data Structures & Algorithms",
+        "OOPs",
+        "DBMS",
+        "Operating Systems",
+        "Computer Networks",
+        "Computer Architecture",
+      ],
+    },
+  ],
+  projects: [
+    {
+      title: "Task Management Application",
+      period: "May 2026 – Jun 2026",
+      tech: ["React.js", "JavaScript", "HTML", "CSS"],
+      link: "https://github.com/shadddabb",
+      points: [
+        "Developed a task management application with create, update, delete and status-tracking functionality.",
+        "Implemented centralized state management and local storage for persistent task data.",
+        "Improved user productivity through an intuitive, responsive interface.",
+      ],
+    },
+    {
+      title: "Online Ticket Reselling Platform — Testing",
+      period: "Jan 2026 – Feb 2026",
+      tech: ["Selenium WebDriver", "TestNG", "Apache JMeter", "Java", "Postman"],
+      link: "https://github.com/shadddabb",
+      points: [
+        "Designed and executed comprehensive test cases covering ticket search, booking, payment, cancellation and management flows.",
+        "Performed functional, regression, smoke and UI testing to ensure application quality and reliability.",
+        "Conducted API testing with Postman to validate request/response data, status codes and system integration.",
+        "Prepared test reports and documentation; verified bug fixes through retesting across modules.",
+      ],
+    },
+    {
+      title: "Certificate Authenticator",
+      period: "Nov 2025 – Mar 2026",
+      tech: ["Python", "Deep Learning", "Cryptography", "TensorFlow"],
+      link: "https://github.com/shadddabb",
+      points: [
+        "Built a secure certificate authentication system using cryptographic signatures and neural steganography.",
+        "Implemented fingerprint-based tamper detection to verify document authenticity.",
+        "Enhanced the security and privacy of digital certificate verification.",
+      ],
+    },
+  ],
+  certifications: [
+    {
+      title: "Cloud Computing",
+      issuer: "NPTEL",
+      date: "Nov 2025",
+      link: "",
+    },
+    {
+      title: "AI Agents and Agentic AI with Python & Generative AI",
+      issuer: "Coursera",
+      date: "Sep 2025",
+      link: "",
+    },
+    {
+      title: "ChatGPT Advanced Data Analysis",
+      issuer: "Coursera",
+      date: "May 2024",
+      link: "",
+    },
+    {
+      title: "Prompt Engineering for ChatGPT",
+      issuer: "Coursera",
+      date: "Feb 2024",
+      link: "",
+    },
+    {
+      title: "Summer Training — Data Structures & Algorithms (C++), 60+ hours",
+      issuer: "Lovely Professional University",
+      date: "Jun – Jul 2024",
+      link: "",
+    },
+  ],
+  education: [
+    {
+      institution: "Lovely Professional University",
+      degree: "B.Tech in Computer Science & Engineering",
+      period: "2022 – 2026",
+      score: "CGPA: 6.7",
+      location: "Phagwara, Punjab",
+    },
+    {
+      institution: "T.K Ghosh Academic School",
+      degree: "Class XII — Science",
+      period: "2020 – 2022",
+      score: "67.6%",
+      location: "Patna, Bihar",
+    },
+    {
+      institution: "Adelaide Convent High School",
+      degree: "Class X",
+      period: "2019 – 2020",
+      score: "76.8%",
+      location: "Patna, Bihar",
+    },
+  ],
+};

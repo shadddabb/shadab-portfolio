@@ -1,0 +1,8 @@
+.about-content {
+  max-width: 780px;
+  margin-inline: auto;
+  display: grid;
+  gap: 18px;
+  color: var(--muted);
+  font-size: 1.02rem;
+}
