@@ -1,6 +1,6 @@
 export const profile = {
   name: "Shadab Akhter",
-  initials: "SA",
+  initials: "shadddabb",
   role: "Web Developer & QA Engineer",
   tagline:
     "B.Tech Computer Science graduate who builds clean web applications with React and ensures software quality through manual, automation and API testing.",
